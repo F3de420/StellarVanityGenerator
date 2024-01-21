@@ -1,3 +1,5 @@
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+
 # Stellar Vanity Address Generator
 
 This Python script generates "vanity" addresses for the Stellar network. A vanity address is a public address that contains a specific string.
