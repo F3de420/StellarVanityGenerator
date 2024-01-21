@@ -7,7 +7,9 @@ This Python script generates "vanity" addresses for the Stellar network. A vanit
 - Generate a Stellar vanity address with a specific string.
 - The string can be a prefix or a suffix of the address.
 - Multithreaded address generation.
-- Option to save the results to a file.
+- Option to save/append the results to a file 'results.txt' in the same directory as the script.
+**IMPORTANT: It is strongly recommended to destroy the 'results.txt' file after use to prevent unauthorized access to the generated keys.**
+
 
 ## Requirements
 
