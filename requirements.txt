@@ -1,5 +1,2 @@
 stellar_sdk
 argparse
-concurrent.futures
-os
-time
