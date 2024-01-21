@@ -18,7 +18,7 @@ This Python script generates "vanity" addresses for the Stellar network. A vanit
 You can install the required Python libraries using pip:
 
 ```bash
-pip install stellar_sdk argparse concurrent.futures os time
+pip install stellar_sdk argparse
 ```
 or
 ```bash
