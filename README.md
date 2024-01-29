@@ -39,9 +39,9 @@ You can run the script with command line arguments or in interactive mode.
 
 ### Command Line Arguments
 
-- `string`: The string to look for in the address. By default, the string is treated as a suffix.
+- `string`: The string to look for in the address. By default, the string is treated as a SUFFIX.
 
-- `-p` or `--prefix`: If present, the string will be treated as a prefix instead of a suffix.
+- `-p` or `--prefix`: If present, the string will be treated as a PREFIX instead of a suffix.
 
 - `-t` or `--threads`: The number of threads to use. By default, the script uses the maximum number of threads available on your computer.
 
@@ -55,7 +55,7 @@ Here are some examples of how to run the script with command line arguments:
 ```bash
 python StellarVanityGenerator.py xlm -p -t 4 -s
 ```
-This command will search for ‘xlm’ **PREFIX** in the address, use 4 threads, and save the results to a file.
+This command will search for ‘xlm’ **PREFIX** in the address, use 4 threads, print the results to the console and save the results to a file.
 
 
 
