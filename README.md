@@ -81,7 +81,7 @@ python StellarVanityGenerator.py
 
 ## Donations
 
-If you found this script helpful and would like to show your appreciation, consider making a donation to the following Stellar address: `YOUR_STELLAR_ADDRESS_HERE`. Your support helps maintain and improve this project. Thank you! 😊
+If you found this script helpful and would like to show your appreciation, consider making a donation to the following Stellar address: `GB6CF53JKDYQDLZORVKHI2ZAVOR63XXZFEKEJA5ETHKGVBU5NTSW3TIP`. Your support helps maintain and improve this project. Thank you! 😊
 
 
 
