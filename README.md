@@ -17,7 +17,7 @@ This Python script generates "vanity" addresses for the Stellar network. A vanit
 
 ## Requirements
 
-- Python 3.9
+- Python 3.9+
 - `stellar_sdk` Python library
 - `argparse` Python library
 
