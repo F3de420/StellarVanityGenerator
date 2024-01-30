@@ -102,3 +102,6 @@ This script is provided "as is", without warranties of any kind, express or impl
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+# Special Thanks
+Special Thanks to the [Reddit Sellar CANNACOIN community](https://www.reddit.com/r/StellarCannaCoin/) for their support 💚
