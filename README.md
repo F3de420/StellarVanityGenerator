@@ -39,9 +39,9 @@ You can run the script with command line arguments or in interactive mode.
 
 ### Command Line Arguments
 
-- `string`: The string to look for in the address. By default, the string is treated as a SUFFIX.
+- `string`: The string to look for in the address. By default, the string is treated as a **SUFFIX**.
 
-- `-p` or `--prefix`: If present, the string will be treated as a PREFIX instead of a suffix.
+- `-p` or `--prefix`: If present, the string will be treated as a **PREFIX** instead of a suffix.
 
 - `-t` or `--threads`: The number of threads to use. By default, the script uses the maximum number of threads available on your computer.
 
