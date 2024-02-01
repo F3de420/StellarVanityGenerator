@@ -53,7 +53,7 @@ Here are some examples of how to run the script with command line arguments:
 
 
 ```bash
-python StellarVanityGenerator.py xlm -p -t 4 -s
+python3 StellarVanityGenerator.py xlm -p -t 4 -s
 ```
 This command will search for ‘xlm’ **PREFIX** in the address, use 4 threads, print the results to the console and save the results to a file.
 
@@ -61,7 +61,7 @@ This command will search for ‘xlm’ **PREFIX** in the address, use 4 threads,
 
 
 ```bash
-python StellarVanityGenerator.py xlm -t 4
+python3 StellarVanityGenerator.py xlm -t 4
 ```
 This command will search for ‘xlm’ **SUFFIX** in the address, use 4 threads, and print the results to the console.
 
@@ -74,7 +74,7 @@ If no string is provided when running the script, the script enters interactive 
 Here’s how to run the script in interactive mode:
 
 ```bash
-python StellarVanityGenerator.py
+python3 StellarVanityGenerator.py
 ```
 
 
