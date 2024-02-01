@@ -5,6 +5,7 @@
 # Stellar Vanity Address Generator
 
 This Python script generates "vanity" addresses for the Stellar network. A vanity address is a public address that contains a specific string.
+Works on both windows and linux
 
 ## Features
 
