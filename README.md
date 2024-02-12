@@ -12,8 +12,8 @@ Works on both windows and linux
 - Generate a Stellar vanity address with a specific string.
 - The string can be a prefix or a suffix of the address.
 - Multithreaded address generation.
-- Option to save/append the results to a file 'results.txt' in the same directory as the script.
-**IMPORTANT: It is strongly recommended to destroy the 'results.txt' file after use to prevent unauthorized access to the generated keys.**
+- Option to save/append the results to a file "\[your string\].txt" in the same directory as the script.
+**IMPORTANT: It is strongly recommended to destroy the "\[your string\].txt" file after use to prevent unauthorized access to the generated keys.**
 
 
 ## Requirements
